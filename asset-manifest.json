@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "%7Busername%7D.github.io/%7Brepo-name%7D/static/css/main.d1b05096.chunk.css",
+    "main.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/main.eb7b366f.chunk.js",
+    "main.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/main.eb7b366f.chunk.js.map",
+    "runtime-main.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/runtime-main.44493526.js",
+    "runtime-main.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/runtime-main.44493526.js.map",
+    "static/js/2.bb33a59f.chunk.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.bb33a59f.chunk.js",
+    "static/js/2.bb33a59f.chunk.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.bb33a59f.chunk.js.map",
+    "index.html": "%7Busername%7D.github.io/%7Brepo-name%7D/index.html",
+    "precache-manifest.c81395e10a1d35169efeabc5e508a381.js": "%7Busername%7D.github.io/%7Brepo-name%7D/precache-manifest.c81395e10a1d35169efeabc5e508a381.js",
+    "service-worker.js": "%7Busername%7D.github.io/%7Brepo-name%7D/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bb33a59f.chunk.js.LICENSE": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.bb33a59f.chunk.js.LICENSE",
+    "static/media/logo.svg": "%7Busername%7D.github.io/%7Brepo-name%7D/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44493526.js",
+    "static/js/2.bb33a59f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.eb7b366f.chunk.js"
+  ]
+}
