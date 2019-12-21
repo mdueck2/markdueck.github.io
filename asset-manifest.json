@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "%7Busername%7D.github.io/%7Brepo-name%7D/static/css/main.d1b05096.chunk.css",
-    "main.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/main.eb7b366f.chunk.js",
-    "main.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/main.eb7b366f.chunk.js.map",
-    "runtime-main.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/runtime-main.44493526.js",
-    "runtime-main.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/runtime-main.44493526.js.map",
-    "static/js/2.bb33a59f.chunk.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.bb33a59f.chunk.js",
-    "static/js/2.bb33a59f.chunk.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.bb33a59f.chunk.js.map",
-    "index.html": "%7Busername%7D.github.io/%7Brepo-name%7D/index.html",
-    "precache-manifest.c81395e10a1d35169efeabc5e508a381.js": "%7Busername%7D.github.io/%7Brepo-name%7D/precache-manifest.c81395e10a1d35169efeabc5e508a381.js",
-    "service-worker.js": "%7Busername%7D.github.io/%7Brepo-name%7D/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bb33a59f.chunk.js.LICENSE": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.bb33a59f.chunk.js.LICENSE",
-    "static/media/logo.svg": "%7Busername%7D.github.io/%7Brepo-name%7D/static/media/logo.5d5d9eef.svg"
+    "main.css": "/markdueck/static/css/main.d1b05096.chunk.css",
+    "main.js": "/markdueck/static/js/main.771fe2de.chunk.js",
+    "main.js.map": "/markdueck/static/js/main.771fe2de.chunk.js.map",
+    "runtime-main.js": "/markdueck/static/js/runtime-main.cbb32f9b.js",
+    "runtime-main.js.map": "/markdueck/static/js/runtime-main.cbb32f9b.js.map",
+    "static/js/2.bb33a59f.chunk.js": "/markdueck/static/js/2.bb33a59f.chunk.js",
+    "static/js/2.bb33a59f.chunk.js.map": "/markdueck/static/js/2.bb33a59f.chunk.js.map",
+    "index.html": "/markdueck/index.html",
+    "precache-manifest.5d55f370d9898526337c1a53f134e445.js": "/markdueck/precache-manifest.5d55f370d9898526337c1a53f134e445.js",
+    "service-worker.js": "/markdueck/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/markdueck/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bb33a59f.chunk.js.LICENSE": "/markdueck/static/js/2.bb33a59f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/markdueck/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44493526.js",
+    "static/js/runtime-main.cbb32f9b.js",
     "static/js/2.bb33a59f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.eb7b366f.chunk.js"
+    "static/js/main.771fe2de.chunk.js"
   ]
 }
