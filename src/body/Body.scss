@@ -21,9 +21,12 @@
       
         &:active {
           background-color: rgb(216, 140, 0);
+          color: rgb(36, 104, 207);
         }
       
         &:hover {
+          transition: 1s;
+          color: rgb(36, 104, 207);
           cursor: pointer;
         }
     }
