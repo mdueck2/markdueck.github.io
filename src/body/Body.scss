@@ -1,0 +1,30 @@
+.App-Body {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+    button {
+        background: orange;
+        color: white;
+
+        border: none;
+        object-fit: cover;
+        height: 3em;
+        width: 15em;
+        transition: all .15s ease-in-out;
+        border-radius: 2px;
+      
+        &:focus {
+          outline: none;
+        }
+      
+        &:active {
+          background-color: rgb(216, 140, 0);
+        }
+      
+        &:hover {
+          cursor: pointer;
+        }
+    }
+}
