@@ -9,7 +9,7 @@ const Body = () => {
 
     return (
         <div className="App-Body" onClick={handleClick}>
-            <button>Welcome</button>
+            <button className="nav-btn btn-slide-line center">Welcome</button>
         </div>
     )
 }
