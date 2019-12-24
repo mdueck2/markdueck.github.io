@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/markdueck/static/css/main.d1b05096.chunk.css",
-    "main.js": "/markdueck/static/js/main.771fe2de.chunk.js",
-    "main.js.map": "/markdueck/static/js/main.771fe2de.chunk.js.map",
-    "runtime-main.js": "/markdueck/static/js/runtime-main.cbb32f9b.js",
-    "runtime-main.js.map": "/markdueck/static/js/runtime-main.cbb32f9b.js.map",
-    "static/js/2.bb33a59f.chunk.js": "/markdueck/static/js/2.bb33a59f.chunk.js",
-    "static/js/2.bb33a59f.chunk.js.map": "/markdueck/static/js/2.bb33a59f.chunk.js.map",
+    "main.css": "/markdueck/static/css/main.8ac54917.chunk.css",
+    "main.js": "/markdueck/static/js/main.c5ac6531.chunk.js",
+    "main.js.map": "/markdueck/static/js/main.c5ac6531.chunk.js.map",
+    "runtime~main.js": "/markdueck/static/js/runtime~main.c1a0a141.js",
+    "runtime~main.js.map": "/markdueck/static/js/runtime~main.c1a0a141.js.map",
+    "static/js/2.bf7dd706.chunk.js": "/markdueck/static/js/2.bf7dd706.chunk.js",
+    "static/js/2.bf7dd706.chunk.js.map": "/markdueck/static/js/2.bf7dd706.chunk.js.map",
     "index.html": "/markdueck/index.html",
-    "precache-manifest.5d55f370d9898526337c1a53f134e445.js": "/markdueck/precache-manifest.5d55f370d9898526337c1a53f134e445.js",
+    "precache-manifest.54218c1fe9b5498ba24177b566ff0f95.js": "/markdueck/precache-manifest.54218c1fe9b5498ba24177b566ff0f95.js",
     "service-worker.js": "/markdueck/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/markdueck/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bb33a59f.chunk.js.LICENSE": "/markdueck/static/js/2.bb33a59f.chunk.js.LICENSE",
-    "static/media/logo.svg": "/markdueck/static/media/logo.5d5d9eef.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.cbb32f9b.js",
-    "static/js/2.bb33a59f.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.771fe2de.chunk.js"
-  ]
+    "static/css/main.8ac54917.chunk.css.map": "/markdueck/static/css/main.8ac54917.chunk.css.map",
+    "static/media/App.scss": "/markdueck/static/media/background_cropped.3b9542f7.jpg",
+    "static/media/dm_logo_white.ico": "/markdueck/static/media/dm_logo_white.b8d5d5c8.ico",
+    "static/media/menu_icon_white.ico": "/markdueck/static/media/menu_icon_white.1b0b15e4.ico"
+  }
 }
