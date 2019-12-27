@@ -1,14 +1,16 @@
 .App {
-  height: 100vh;
+  //height: 100vh;
 
-  .Background-Image {
-    position: absolute;
-    background-image: url('./background_cropped.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    z-index: -1;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-  }
+  // .Background-Image {
+  //   position: absolute;
+  //   background-image: url('./background_cropped.jpg');
+  //   background-repeat: no-repeat;
+  //   background-position: center;
+  //   z-index: -1;
+  //   height: 100%;
+  //   width: 100%;
+  //   object-fit: cover;
+  // }
+
+  background-color: rgb(50, 50, 55);
 }

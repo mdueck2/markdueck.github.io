@@ -1,0 +1,43 @@
+.nav-btn {
+    position: relative;
+    background: none;
+    border: none;
+    border-left: 1px solid rgb(200, 200, 200);
+    width: 100%;
+    font: inherit;
+
+    &:first-child {
+        border-left: none;
+    }
+
+    &:focus {
+        outline: none;
+    }
+
+    &.btn-slide-line {
+        &.center {
+            &:after {
+                left: 50%;
+            }
+        }
+
+        &:after {
+            position: absolute;
+            transition: .5s;
+            content: '';
+            width: 0;
+            bottom: 0;
+            height: 5px;
+            background: rgb(36, 104, 207);
+        }
+
+        &:hover {
+            cursor: pointer;
+            
+            &:after {
+                width: 100%;
+                left: 0;
+            }
+        }
+    }
+}

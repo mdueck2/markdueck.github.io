@@ -4,12 +4,13 @@
     width: 100%;
 
     button {
-        background: orange;
+        //background: orange;
+        color: rgb(230,230,230);
         border: none;
         object-fit: cover;
-        max-width: 24px;
-        height: 24px;
-        width: 100%;
+        //max-width: 24px;
+        //height: 24px;
+        //width: 100%;
         margin: 2px;
         padding: 2px;
         transition: all .15s ease-in-out;
