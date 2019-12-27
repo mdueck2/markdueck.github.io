@@ -13,7 +13,6 @@ const Body = () => {
 
     return (
         <div className="App-Body" onClick={handleClick}>
-            <button className="nav-btn btn-slide-line center">Welcome</button>
             <About/>
             <Projects/>
             <Contact/>

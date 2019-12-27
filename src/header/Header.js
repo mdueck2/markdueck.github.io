@@ -12,15 +12,10 @@ const Header = () => {
 
     return ( 
         <div className="App-Header">
-            <button className="Logo-Btn" onClick={handleClick}>
-                <img src={dm_logo} alt="logo_image" />
-            </button>
-            <button className="Menu-Btn nav-btn btn-slide-line center">About Me</button>
-            <button className="Menu-Btn nav-btn btn-slide-line center">Project Work</button>
-            <button className="Menu-Btn nav-btn btn-slide-line center">Contact</button>
-            <button className="Menu-Btn" onClick={handleClick}>
-                <img src={menu_icon} alt="menu_image"/>
-            </button>
+            <div className="h-spacer"/>
+            <button className="Menu-Btn nav-btn btn-slide-line center btn from-middle">About</button>
+            <button className="Menu-Btn nav-btn btn-slide-line center btn from-middle">Experience</button>
+            <button className="Menu-Btn nav-btn btn-slide-line center btn from-middle">Contact</button>
         </div>
     )
 }
